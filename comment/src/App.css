@@ -1,0 +1,19 @@
+.App{
+  margin:100px auto;
+  padding:20px;
+}
+
+.comment-input input{
+  height:50px;
+  width:75%;
+  font-size: 20px;
+  padding: 10px;
+}
+
+.comment-input button{
+  height:40px;
+  width:100px;
+  margin: 10px;
+  border-radius:5px;
+ background-color:orange;
+}
